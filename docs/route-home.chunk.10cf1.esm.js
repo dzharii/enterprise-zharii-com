@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{FA6U:function(e){e.exports={home:"home__MseGd"}},FDtd:function(e,o,t){"use strict";t.r(o);var n=t("hosL"),s=t("FA6U"),i=t.n(s);o.default=()=>Object(n.h)("div",{class:i.a.home},Object(n.h)("h1",null,"Welcome!"),Object(n.h)("p",null,"Hello! this is a simple, but yet powerful site of the enterprise zharii com!"),Object(n.h)("p",null,"Everyone is welcome here, but first you must log in, or you are not gonna be welcome here!"))}}]);
+//# sourceMappingURL=route-home.chunk.10cf1.esm.js.map
